@@ -80,7 +80,7 @@ a:hover {
 }
 
 .mdc-header .mdc-main-menu ul li ul li a {
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
   display: block;
   padding: 13px 0;
 }
@@ -858,8 +858,9 @@ a:hover {
 
 .slider-pro-1 p.sp-layer.sp-txt-4:hover a, .slider-pro-3 p.sp-layer.sp-txt-4:hover a {
   color: #ffffff;
-  background-color: #5dc3c3;;
-  border-left-color: #ffffff;
+  background-color: #ffffff;
+  /* border-left-color: #ffffff; */
+  opacity: 0.7;
 }
 
 .slider-pro-1 p.sp-layer.sp-txt-4:hover a .mdc-icon1, .slider-pro-3 p.sp-layer.sp-txt-4:hover a .mdc-icon1 {
