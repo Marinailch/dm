@@ -62,7 +62,7 @@
 }
 .why_block{
     margin-bottom: 50px;
-    margin-top: -120px;
+    margin-top: -100px;
 }
 .why{
     width: 293px;
@@ -70,6 +70,7 @@
     margin-top: 20px;
     padding: 35px;
     color: #fff;
+    text-align: justify;
     }
 
 .why p {
@@ -171,7 +172,8 @@ h3 {
     margin-left: -450px;
 }
 .team_font{
-    margin-left: 60%;
+    margin-left: 67%;
+    margin-top: 15px;
 }
 
 /*Врачи*/
@@ -186,7 +188,7 @@ h3 {
             }
 .social{
     width: 180px;
-    margin: -30px auto auto 50px;
+    margin: -30px auto auto auto;
 }
 .vrach_text h6{
     font-family: "Open Sans", sans-serif;
@@ -342,9 +344,9 @@ h3 {
 
 .map_info h3{
     font-size: 28px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
+    margin-top: 25px;
     font-weight: 600;
-    /*margin: auto;*/
 
 }
 #map h3:nth-child(even){
@@ -356,6 +358,13 @@ h3 {
     opacity: 0.1;
     color: white;
     border: 1px solid;
+}
+#map .social{
+    margin: auto;
+    width: 146px;
+    opacity: 0.5;
+    margin-top: 31px;
+
 }
 
 /*Доктор*/
@@ -438,6 +447,7 @@ h3 {
     color: #707070;
     font-size: 14px;
     margin-bottom: 10px;
+    /*line-height: 3em;*/
 }
 .service a:before{
     content: "-";
@@ -463,7 +473,7 @@ h3 {
 }
 .footer_menu a{
     text-decoration: none;
-    font-size: 18px;
+    font-size: 16px;
     color: #323232;
     font-weight: bold;
     margin-right: 5%;
@@ -477,17 +487,27 @@ h3 {
     /*блок1*/
     div .why {
         width: 100%;
-        padding: 41px 41px 56px 44px;
+        padding: 30px 28px 50px 27px;
         /* font-size: 1em; */
         height: auto;
         margin: 0;
     }
+    /*.why_block .col-md-3:last-child {*/
+        /*font-size: 10px;*/
+    /*}*/
 
+  h4.last_way{
+        margin-top: 8px;
+    }
     .why_block .container {
         width: 100% !important;
         margin: 0;
        /* padding: 0;*/
         text-align: justify;
+    }
+
+    .why_block{
+        margin-top: 0;
     }
 
     /*О НАС*/
@@ -505,7 +525,7 @@ h3 {
     .footer_menu a {
         margin-right: 41px;
     }
-    
+
 }
 
 @media (min-width: 767px) and (max-width: 1200px){
@@ -542,8 +562,8 @@ h3 {
         width: 100%;
     }
 
-    
-    
+
+
 }
 
 @media (min-width: 500px) and (max-width: 1200px) {
@@ -630,7 +650,7 @@ h3 {
 
 
 
-        
+
 @media  (max-width: 990px) {
     /*О НАС*/
     .solution {
@@ -678,6 +698,4 @@ h3 {
         font-weight: bold;
         margin-right: 21px;
     }
-
- 
 }
