@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Доктор</title>
-    <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="css/bootstrap.min.css" media="all" />
-    
-</head>
-<body>
-    <div class="doctor">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="doctor_card">
-                        <img src="img/vrach_card/1.jpg">
-                        <div class="social">
-                            <img src="img/vrach_card/ok.png">
-                            <img src="img/vrach_card/fb.png">
-                            <img src="img/vrach_card/vk.png">
-                        </div>
-                        <div class="doctor_info">
-                            <h4>часы работы</h4>
-                            <span class="week">пн-пт</span><span>10:00 - 19:00</span><br>
-                            <span class="week">сб</span><span>11:00 - 15:00</span><br>
-                            <span class="week">вс</span><span>10:00 - 19:00</span><br>
-                            <h4>контакты</h4>
-                            <p>+38  067-156-35-48</p><br>
-                            <p>+38  050-985-35-68</p><br>
-                            <p>dmedical@dm.com</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-8 text-doc">
-                    <h2>Онколог</h2>
+ <h2>Онколог</h2>
                     <h3>Мишкевич Иванна</h3>
                     <p>Кандидат медицинских наук, врач-дерматолог и венеролог высшей категории с дополнительным образованием по клинической микологии, лечению аллергодерматозов у детей, лазеротерапии. Посвятил свою научную деятельность изучению методов лечения псориаза. Имеет запатентованный способ лечения данного заболевания. Владеет методиками аппаратной косметологии. Основное внимание уделяет лечению аллергических и аутоиммунных заболеваний кожи у детей и взрослых. Кроме этого оказывает помощь при заболеваниях, передающихся половым путём, вагинозах, кондиломах и опухолях кожи, грибковых поражениях ногтей и кожи.
                     </p>
@@ -48,5 +14,3 @@
             </div>
         </div>
     </div>
-</body>
-</html>
