@@ -1490,11 +1490,12 @@ h3 {
   text-align: justify;
 
 }
-.servise_page p {
-  width: 90%;
+.servise_page p, .servise_page span {
+  width: 95%;
+
 }
 .servise_page li {
-  width: 90%;
+  width: 95%;
 }
 
 .servise_page h4 {
@@ -1515,6 +1516,7 @@ h3 {
 .servise_page h6{
   font-size: 18px;
   margin-top: 40px;
+  width: 95%;
 }
 
 
