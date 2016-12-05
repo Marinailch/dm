@@ -11,4 +11,13 @@
 
   }
 
- 
+  function geo_block(block){
+      document.getElementById('menu_geo').style.display = "block";
+      document.getElementById('ico_geo').style.display = "none";
+
+  }
+  function geo_none(none){
+      document.getElementById('menu_geo').style.display = "none";
+      document.getElementById('ico_geo').style.display = "block";
+
+  }

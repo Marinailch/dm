@@ -109,9 +109,9 @@
                     <div class="team_text">
                         <h3> <span class="mark1h3"> наша </span>  <b><span class="mark2h3"> команда </span></b></h3>
                         <hr  width="150px" align="left" >
-                       <p>Главный врач клиники,  Нороха Игорь Иванович, врач дермато-венеролог, высшей категории, имеет многолетний опыт ведения пациентов с дерматологическими, кожными, венирологическими проблемами. Всегда поможет в решении сложных диагностических и терапевтических задач.</p>
+                       <p>Профилирующий врач клиники, кандидат медицинских наук, Завизион Виктор Федорович, врач онкохирург, хирург высшей категории, стаж работы более 30 лет,  доцент кафедры онкологии и медицинской радиологии,  имеет более 190 публикаций в отечественных и зарубежных изданиях.  </p>
 
-                        <a href="doctors.php?id=d3"> <p><i>«Наша команда это слаженный коллектив специалистов высокого уровня квалификации, способных вместе быстро и грамотно поставить правильный диагноз, провести качественное обследование и назначить соответствующее лечение»</i></p></a>
+                        <a href="doctors.php?id=d1"> <p><i>«Наша команда это слаженный коллектив специалистов высокого уровня квалификации, способных вместе быстро и грамотно поставить правильный диагноз, провести качественное обследование и назначить соответствующее лечение»</i></p></a>
                     <img src="img/team_font.png" class="team_font">
                     </div>
                 </div>
@@ -126,7 +126,7 @@
                 <div class="col-sm-6 col-md-3">
                     <a href="doctors.php?id=d5">
                         <div class="vrachi_card">
-                        <img src="img/vrach_card/sregeev.png">
+                        <img src="img/vrach_card/d5.jpg">
                         <div class="social">
                             <img src="img/vrach_card/ok.png">
                             <img src="img/vrach_card/fb.png">
@@ -140,18 +140,18 @@
                     </div></a>
                 </div>
                 <div class="col-sm-6 col-md-3">
-                    <a href="doctors.php?id=d1">
+                    <a href="doctors.php?id=d3">
                     <div class="vrachi_card">
-                        <img src="img/vrach_card/zavizion.png">
+                        <img src="img/vrach_card/d3.jpg">
                         <div class="social">
                             <img src="img/vrach_card/ok.png">
                             <img src="img/vrach_card/fb.png">
                             <img src="img/vrach_card/vk.png">
                         </div>
                         <div class="vrach_text">
-                                <h6>Завизион</h6>
-                                <h5>Виктор Федорович</h5>
-                                <p>Врач онкохирург, хирург высшей категории, стаж работы более 30 лет,  доцент кафедры онкологии и медицинской радиологии, кандидат медицинских наук, имеет более 190 публикаций в отечественных и ... </p>
+                                <h6>Нороха </h6>
+                                <h5>Игорь Иванович</h5>
+                                <p>Врач дермато&shy-венеролог, выс&shyшей кате&shyго&shyрии, имеет много&shyлет&shyний опыт веде&shyния па&shyци&shyентов с дер&shyма&shyто&shyло&shyги&shyчес&shyки&shyми, кож&shyны&shyми, ве&shyни&shyро&shyло&shyгичес&shyкими проб&shyле&shyма&shyми. Прак&shyти&shyкует лазер&shyные мето&shyдики в лече&shyнии кож&shyной...</p>
                         </div>
 
                     </div></a>
@@ -159,7 +159,7 @@
                 <div class="col-sm-6 col-md-3">
                     <a href="doctors.php?id=d2">
                     <div class="vrachi_card">
-                        <img src="img/vrach_card/arteminko.png">
+                        <img src="img/vrach_card/d2.jpg">
                         <div class="social">
                             <img src="img/vrach_card/ok.png">
                             <img src="img/vrach_card/fb.png">
@@ -175,7 +175,7 @@
                 <div class="col-sm-6 col-md-3">
                     <a href="doctors.php?id=d4">
                     <div class="vrachi_card">
-                        <img src="img/vrach_card/balashev.png">
+                        <img src="img/vrach_card/d4.jpg">
                         <div class="social">
                             <img src="img/vrach_card/ok.png">
                             <img src="img/vrach_card/fb.png">
@@ -198,8 +198,8 @@
             <div class="row">
                 <div class="col-sm-6">
                     <div class="Surgitron_text">
-                        <p>Хирурги нашей клиники проводят <br>
-                            операции американским аппаратом<br>
+                        <p>Хирурги нашей клиники проводят
+                            операции американским аппаратом
                             «Surgitron ЕМС» Ellman International</p>
                     </div>
                 </div>

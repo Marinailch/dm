@@ -44,19 +44,21 @@
     </div>
 
     <!-- footer_menu -->
-    <div class="footer_menu">
+    <div class="footer_menu ">
 
             <div class="row">
                 <div class="col-sm-5">
                     <span class="Copiright ">&#169 Copiright 2016. Все права защищены</span>
                 </div>
-                <div class="col-sm-7">
-                   <a href="index.php">главная</a>
-                   <a href="index.php#about">о нас</a>
-                   <a href="servise.php">услуги</a>
-                   <a href="index.php#team">врачи</a>
-                   <a href="blog.php">блог</a>
-                   <a href="#">магазин</a>
+                <div class="col-sm-7 ">
+                        <a href="index.php">главная</a>
+                        <a href="index.php#about">о нас</a>
+                        <a href="servise.php">услуги</a>
+                        <a href="index.php#team">врачи</a>
+                        <a href="blog.php">блог</a>
+                        <a href="#">магазин</a>
+
+
                 </div>
             </div>
 

@@ -38,10 +38,10 @@ var sync1 = jQuery(".sync1");
 var sync2 = jQuery(".sync2");
 var sync12 = jQuery('.mdc-slider-owl-2 .sync12');
 var sync22 = jQuery('.mdc-slider-owl-2 .sync22');
-var loadmore_link_1 = "https://raw.githubusercontent.com/miendao/medicalhtml/f20440549fd95181a77ecc106a5c02a3f3350d75/README.md";
-var loadmore_link_2 = "https://gist.githubusercontent.com/miendao/41894df4fe5a1e2b7ecbf7024767e097/raw/7195a97eae8c8f04f8c515de547c00004c194290/medical-event";
-var loadmore_link_3 = "https://gist.githubusercontent.com/miendao/766434e8f8dbd8714395ef876f2410f0/raw/2e9a69fc2064e9ee27d04598d0b932197adfb61f/medical-portfolio";
-var loadmore_link_4 = "https://gist.githubusercontent.com/miendao/9502a3fdcac4acf32ba115015111e3f0/raw/047cff78c0fff13a93d2be4cba86f3e7e88750ae/medical-portfolio-post"
+var loadmore_link_1 = "";
+var loadmore_link_2 = "";
+var loadmore_link_3 = "";
+var loadmore_link_4 = ""
 
 jQuery(document).ready(function() {
     jQuery.when(

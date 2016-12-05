@@ -41,21 +41,27 @@
         break;}
 ?>
 
-                        <img src="img/vrach_card/<?php echo"$img";?>.png">
+                        <img src="img/vrach_card/<?php echo"$img";?>.jpg">
                         <div class="social">
                             <img src="img/vrach_card/ok.png">
                             <img src="img/vrach_card/fb.png">
                             <img src="img/vrach_card/vk.png">
                         </div>
                         <div class="doctor_info">
-                            <h4>часы работы</h4>
-                            <span class="week">пн-пт</span><span>10:00 - 19:00</span><br>
-                            <span class="week">сб</span><span>11:00 - 15:00</span><br>
-                            <span class="week">вс</span><span>10:00 - 19:00</span><br>
-                            <h4>контакты</h4>
-                            <p>+38  067-156-35-48</p><br>
-                            <p>+38  050-985-35-68</p><br>
+
+                            <h3>часы работы</h3>
+                            <p>пн-пт    10:00 - 19:00</p>
+
+                            <p><span>сб</span>11:00 - 15:00</p>
+
+                            <p><span>вс</span>11:00 - 15:00</p>
+
+
+                            <h3>контакты</h3>
+                            <p>+38  067-156-35-48</p>
+                            <p>+38  050-985-35-68</p>
                             <p>dmedical@dm.com</p>
+
                         </div>
                     </div>
                 </div>
