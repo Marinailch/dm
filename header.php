@@ -10,6 +10,8 @@
 	<link rel="stylesheet" href="css/slider-pro.min.css">
     <link rel="stylesheet" href="style.css">
 
+   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
 </head>
 <body>
 	<div class="main-container">
@@ -20,15 +22,15 @@
                         <div class="col-sm-3 col-lg-4 head_logo">
                             <img src="img/logo.jpg">
                             <div id="menu_mob" onclick="block();"><img src="img/12.png" alt="menu"></div>
-                            <div id="menu">
+                            <div id="menu" >
                                 <ul><li id="back" onclick="none();"><a href=""><</a></li>
-                                    <li><a href="index.php#map">Контакты</a></li>
-                                    <li><a href="index.php">Главная</a></li>
-                                    <li><a href="consult.php?id=с1">Консультации</a></li>
-                                    <li><a href="servise.php">Услуги</a></li>
-                                    <li><a href="index.php#about">О Нас</a></li>
-                                    <li><a href="blog.php">Блог</a></li>
-                                    <li><a href="">Магазин</a></li></li>
+                                    <li onclick="none();"><a href="index.php#map">Контакты</a></li>
+                                    <li onclick="none();"><a href="index.php">Главная</a></li>
+                                    <li onclick="none();"><a href="consult.php?id=с1">Консультации</a></li>
+                                    <li onclick="none();"><a href="servise.php">Услуги</a></li>
+                                    <li onclick="none();"><a href="index.php#about">О Нас</a></li>
+                                    <li onclick="none();"><a href="blog.php">Блог</a></li>
+                                    <li onclick="none();"><a href="">Магазин</a></li></li>
                                 </ul>
                             </div>
                         </div>

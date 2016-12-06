@@ -66,13 +66,25 @@ a:hover {
 
 #menu{
   display: none;
-  float: none;
+  float: right;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  width: 160px;
+  height: 100vh;
+  overflow: auto;
+  background: rgba(251, 251, 251, 0.95);
+  line-height: 2em;
 }
 #menu li{
   list-style-type: none;
   margin: auto;
   size: 18px;
   font-weight: 600;
+}
+#menu ul{
+  margin-top: 50px;
 }
 
 .mdc-header .mdc-main-menu ul li ul {
@@ -1110,7 +1122,7 @@ hr {
   border: #fff 2px solid;
   color: #fff;
   background-color: transparent;
-  padding: 15px 38px;
+  padding: 15px 0px;
   font-size: 16px;
   margin: auto;
   width: 250px
@@ -1330,15 +1342,22 @@ h3 {
   line-height: 0.5em;
 }
 
+.map_info span {
+  margin-right: 21px;
+}
+
 .map_info h3{
   font-size: 28px;
   margin-bottom: 20px;
   margin-top: 25px;
   font-weight: 600;
-
+}
+.map_info p{
+  margin: auto;
+  width: 150px;
 }
 #map h3:nth-child(even){
-  margin-top: 40px;
+  margin: 33px 0px 25px 15px;
 }
 #map hr{
   margin-top: 10px;
@@ -1352,8 +1371,8 @@ h3 {
   width: 146px;
   opacity: 0.5;
   margin-top: 31px;
-
 }
+
 
 /*Доктор*/
 .doctor{
