@@ -10,6 +10,8 @@
 	<link rel="stylesheet" href="css/slider-pro.min.css">
     <link rel="stylesheet" href="style.css">
 
+   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
 </head>
 <body>
 	<div class="main-container">
@@ -20,31 +22,28 @@
                         <div class="col-sm-3 col-lg-4 head_logo">
                             <img src="img/logo.jpg">
                             <div id="menu_mob" onclick="block();"><img src="img/12.png" alt="menu"></div>
-                            <div id="menu">
-                                <ul><li id="back" onclick="none();"><a href=""><</a></li>
-                                    <li><a href="index.php#map">Контакты</a></li>
-                                    <li><a href="index.php">Главная</a></li>
-                                    <li><a href="consult.php?id=с1">Консультации</a></li>
-                                    <li><a href="servise.php">Услуги</a></li>
-                                    <li><a href="index.php#about">О Нас</a></li>
-                                    <li><a href="blog.php">Блог</a></li>
-                                    <li><a href="">Магазин</a></li></li>
+                            <div id="menu" >
+                                <ul><a href=""><img src="img/13.png" id="back" onclick="none();" ></a>
+                                    <li onclick="none();"><a href="index.php#map">Контакты</a></li>
+                                    <li onclick="none();"><a href="index.php">Главная</a></li>
+                                    <li onclick="none();"><a href="consult.php?id=с1">Консультации</a></li>
+                                    <li onclick="none();"><a href="servise.php">Услуги</a></li>
+                                    <li onclick="none();"><a href="index.php#about">О Нас</a></li>
+                                    <li onclick="none();"><a href="blog.php">Блог</a></li>
+                                    <li onclick="none();"><a href="">Магазин</a></li></li>
                                 </ul>
                             </div>
                         </div>
 
                         <div class="head_phone col-sm-3 col-lg-2 ">
-                            <span class="head_phone_one">+38 (067) 105-39-78</span><br>
-                            <span class="head_phone_two">+38 (067) 105-39-78</span>
+                            <span class="head_phone_one">+38 (050) 343-61-08</span>
                         </div>
 
                         <div class="col-sm-3 col-lg-2  head_time">
-                            <span>с 10-00 до 19-00</span><br>
-                            <span>Сб и Вс до 17-00</span>
+                            <span>с 10-00 до 19-00</span>
                         </div>
                         <div class="col-sm-3 head_adress">
-                            <span class="geo">г. Днепр</span><br>
-                            <span class="geo">ул. Херсонская 10-а</span>
+                            <span class="geo">ул. Херсонская 10-а</span><br>
                         </div>
                     </div>
                 </div>
