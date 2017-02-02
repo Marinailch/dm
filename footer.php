@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-3">
-                    <img class="logo_footer" src="img/logo_footer.png">
+                    <a href="index.php"><img class="logo_footer" src="img/logo_footer.png"></a>
                 </div>
                 <div class="col-sm-3 service" style="line-height: 1.72em;">
                     <span class="consultation">консультации <br> услуги</span>
@@ -37,7 +37,11 @@
                     <a href="servise.php#ue5">Пилинги</a>
                     <a href="servise.php#ue6">Уходы</a>
 <!--                    <p class="footer_inf">Лицензия МЗО от 01.02.2015г серия ЛД-1 номер 2484555</p>-->
-                    <p class="footer_inf">Клиника успешно сотрудничает с более чем 20 страховыми компаниями</p>
+                    <div style="width: 50px; margin-top: 125px;">
+                        <a href="https://www.instagram.com/dnipromedical/" target="_blank" style=";"><img src="img/in.png" style="float: left; width: 20px;"></a>
+                        <a href="https://plus.google.com/u/3/" target="_blank"><img src="img/g.png" style="float: right; width: 20px;"></a>
+                    </div>
+                    <p class="footer_inf">dnipromedical@gmail.com</p>
                 </div>
             </div>
         </div>

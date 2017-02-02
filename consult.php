@@ -19,7 +19,7 @@
         $img="d1";
         break;
     case 'c2':
-        $img="d2";
+        $img="d3";
         break;
     case 'c3':
         $img="d2";
@@ -50,17 +50,17 @@
                         <div class="doctor_info">
 
                             <h3>часы работы</h3>
-                            <p>пн-пт    10:00 - 19:00</p>
+                            <p><span style="margin-right: 15px;">пн-пт</span>    9:00 - 19:00</p>
 
-                            <p><span>сб</span>11:00 - 15:00</p>
+                            <p><span style="margin-right: 40px;">сб</span>9:00 - 15:00</p>
 
-                            <p><span>вс</span>11:00 - 15:00</p>
+                            <p><span style="margin-right: 40px;">вс</span><span style="letter-spacing: 0.05em;">выходной</span></p>
 
 
                             <h3>контакты</h3>
-                            <p>+38  067-156-35-48</p>
-                            <p>+38  050-985-35-68</p>
-                            <p>dmedical@dm.com</p>
+                            <p class="spaising07">+38  066-267-32-72</p>
+                            <p>ул. Херсонская, 10а</p>
+                            <p class="spaising07">г. Днепр, Украина</p>
 
                         </div>
                     </div>

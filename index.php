@@ -7,7 +7,7 @@
                             <div class="sp-slides">
                                 <div class="sp-slide mdc-slide-rgba">
                                     <div class="sp-image-container">
-                                    <img class="sp-image sp-image-bg" src="img/blank.gif" data-src="img/slider1.jpg" data-retina="img/slider1.jpg" alt="" /></div>
+                                    <img class="sp-image sp-image-bg" src="img/slider1.jpg" data-src="img/slider1.jpg" data-retina="img/slider1.jpg" alt="" /></div>
                                     <p class="sp-layer sp-txt-2" data-horizontal="10%" data-vertical="30%" data-show-transition="right" data-show-delay="400" data-hide-delay="300" data-show-duration="800" data-hide-duration="800">Наш опыт, знания и руки – на страже вашего здоровья! </p>
                                     <hr width="10%" size="1"  color="#12c5c3" class="sp-layer sp-txt-2" data-horizontal="10%" data-vertical="38%" data-show-transition="left" data-show-delay="800" data-hide-delay="300" data-show-duration="1000" data-hide-duration="1000">
                                     <p class="sp-layer sp-txt-3" data-horizontal="10%" data-vertical="46%" data-show-transition="up" data-show-delay="1200" data-hide-delay="300" data-show-duration="1000" data-hide-duration="1000"><i>Наша миссия – оказание высоко-квалифицированной помощи </i></p>
@@ -16,14 +16,14 @@
 
 
                                     <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="25%" data-position="topright" data-show-transition="down" data-show-delay="800" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d1">Онколог</a></p>
-                                    <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="35%" data-position="topright" data-show-transition="down" data-show-delay="1200" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d2">Дерматолог</a></p>
-                                    <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="45%" data-position="topright" data-show-transition="down" data-show-delay="1600" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d3">Венеролог</a></p>
+                                    <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="35%" data-position="topright" data-show-transition="down" data-show-delay="1200" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d2">Онко-дерматолог</a></p>
+                                    <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="45%" data-position="topright" data-show-transition="down" data-show-delay="1600" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d3">Дермато-венеролог</a></p>
                                     <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="55%" data-position="topright" data-show-transition="down" data-show-delay="2000" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d4">Гинеколог</a></p>
                                     <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="65%" data-position="topright" data-show-transition="down" data-show-delay="2500" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d5">Уролог</a></p>
                                 </div>
                                 <div class="sp-slide">
                                     <div class="sp-image-container">
-                                    <img class="sp-image sp-image-bg" src="img/blank.gif"
+                                    <img class="sp-image sp-image-bg" src="img/exterior1.jpg"
                                     data-src="img/exterior1.jpg"
                                     data-retina="img/exterior1.jpg" alt="" /></div>
                                     <p class="sp-layer sp-txt-2" data-horizontal="10%" data-vertical="27%" data-show-transition="right" data-show-delay="400" data-hide-delay="300" data-show-duration="800" data-hide-duration="800">Наш опыт, знания и руки - на страже вашего здоровья! </p>
@@ -34,8 +34,8 @@
 
 
                                     <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="25%" data-position="topright" data-show-transition="down" data-show-delay="800" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d1">Онколог</a></p>
-                                    <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="35%" data-position="topright" data-show-transition="down" data-show-delay="1200" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d2">Дерматолог</a></p>
-                                    <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="45%" data-position="topright" data-show-transition="down" data-show-delay="1600" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d3">Венеролог</a></p>
+                                    <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="35%" data-position="topright" data-show-transition="down" data-show-delay="1200" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d2">Онко-дерматолог</a></p>
+                                    <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="45%" data-position="topright" data-show-transition="down" data-show-delay="1600" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d3">Дермато-венеролог</a></p>
                                     <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="55%" data-position="topright" data-show-transition="down" data-show-delay="2000" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d4">Гинеколог</a></p>
                                     <p class="sp-layer sp-txt-4" data-horizontal="7%" data-vertical="65%" data-position="topright" data-show-transition="down" data-show-delay="2500" data-hide-delay="300" data-show-duration="800" data-hide-duration="800"><a href="doctors.php?id=d5">Уролог</a></p>
                                 </div>
@@ -48,7 +48,7 @@
                 </div>
             </section>
 
-        </div><!-- header-copyright -->
+
    </div> <!-- end main container -->
      <div class="why_block">
         <div class="container">
@@ -68,21 +68,21 @@
    <!--  О НАС -->
     <div class="container">
         <div class="row">
-            <div class=" col-md-3 hidden-xs hidden-sm"><img src="img/30.jpg" class="solution"></div>
-            <div class=" col-md-9">
-                <div id="about"><h3> <span class="mark1h3"> о </span>  <b><span class="mark2h3"> нас </span></b></h3>
-                <hr  width="50px" align="left">
-                <p>Клиника  Днипро-медикал» на Херсонской 10-а специализируется на оказании дерматологической, онко-дерматологической и онкологической помощи жителям Днепра и области.</p>
+            <!-- <div class=" col-md-3 hidden-xs hidden-sm"><img src="img/30.jpg" class="solution"></div> -->
+           <div class=" col-md-12">
+               <div id="about"><h3> <span class="mark1h3"> о </span>  <b><span class="mark2h3"> нас </span></b></h3>
+               <hr  width="50px" align="left">
+               <p>Клиника "Днипро-медикал" на Херсонской 10-а специализируется на оказании дерматологической, онко-дерматологической и онкологической помощи жителям Днепра и области.</p>
 
-                <p>К вашим услугам высококлассные специалисты  с многолетним опытом в дерматологии, онкодерматологии, онкологии, маммологии, онкогинекологии , онкоурологии и косметологии.</p>
+               <p>К вашим услугам высококлассные специалисты  с многолетним опытом в дерматологии, онкодерматологии, онкологии, маммологии, онкогинекологии, онкоурологии и косметологии.</p>
 
-               <p> Мы готовы прийти к Вам на помощь, наши сотрудники предоставят весь спектр услуг для вашего скорейшего выздоровления. В клинике проводится <strong>малоинвазивная радиоволновая хирургия кожи,  гистологическое исследование кожи в дерматологии, дерматоскопия эксперт уровня, диспансерная дерматоскопия, составление карты "родинок",  УЗД молочной железы, цифровая маммография, биопсия молочной железы, обследование и лечение ЗППП, лазерная и радиоволновая косметология, гинекологический осмотр, урологический осмотр.</strong></p>
+              <p> Мы готовы прийти к Вам на помощь, наши сотрудники предоставят весь спектр услуг для вашего скорейшего выздоровления. В клинике проводится <strong><a href="servise.php#ud1">малоинвазивная радиоволновая хирургия кожи</a></strong> ,  <strong><a href="servise.php#ud2">гистологическое исследование кожи в дерматологии</a></strong>, <strong><a href="servise.php#ud3">дерматоскопия эксперт уровня</a></strong>, <strong><a href="servise.php#ud4">диспансерная дерматоскопия</a></strong>, <strong><a href="servise.php#ud6">составление карты "родинок"</a></strong>,  <strong><a href="servise.php#um1">УЗД молочной железы</a></strong>,  <strong><a href="servise.php#um2">биопсия молочной железы</a></strong>, <strong><a href="servise.php#uv1">обследование и лечение ЗППП</a></strong>, <strong><a href="servise.php#uk1">лазерная и радиоволновая косметология</a></strong>, <strong><a href="servise.php#ug1">гинекологический осмотр</a></strong>, <strong><a href="servise.php#uu1">урологический осмотр</a></strong>. Так же в клиника специализируется в проведении эстетических процедур таких как <strong><a href="servise.php#ue1">плазмолифтинг</a></strong>, <strong><a href="servise.php#ue2">контурная пластика</a></strong>, <strong><a href="servise.php#ue3">ботулотоксины</a></strong>, <strong><a href="servise.php#ue4">биоревитализация</a></strong>, <strong><a href="servise.php#ue5">пилинги</a></strong>, <strong><a href="servise.php#ue6">уходы</a></strong>.</p>
+           <p>Успешно сотрудничаем с более двадцати страховыми компаниями Украины. <br>Лицензия МОЗУ №870 от 18.08.2016г</p>
+               </div></div>
+       </div>
+   </div>
 
-                <p>Так же в клиника специализируется в проведении эстетических процедур таких как <strong>плазмолифтинг, контурная пластика, ботулотоксины, биоревитализация, пилинги, уходы.</strong></p></div></div>
-        </div>
-    </div>
-    
-   <!--  Запись на прием -->
+  <!--  Запись на прием -->
     <div class="order_bg">
         <div class="container">
             <div class="row">
@@ -109,10 +109,10 @@
                     <div class="team_text">
                         <h3> <span class="mark1h3"> наша </span>  <b><span class="mark2h3"> команда </span></b></h3>
                         <hr  width="150px" align="left" >
-                       <p>Профилирующий врач клиники, кандидат медицинских наук, Завизион Виктор Федорович, врач онкохирург, хирург высшей категории, стаж работы более 30 лет,  доцент кафедры онкологии и медицинской радиологии,  имеет более 190 публикаций в отечественных и зарубежных изданиях.  </p>
+                       <p>Ведущий специалист клиники, кандидат медицинских наук, Завизион Виктор Федорович, врач онкохирург, хирург высшей категории, стаж работы более 30 лет,  доцент кафедры онкологии и медицинской радиологии,  имеет более 190 публикаций в отечественных и зарубежных изданиях.  </p>
 
                         <a href="doctors.php?id=d1"> <p><i>«Наша команда это слаженный коллектив специалистов высокого уровня квалификации, способных вместе быстро и грамотно поставить правильный диагноз, провести качественное обследование и назначить соответствующее лечение»</i></p></a>
-                    <img src="img/team_font.png" class="team_font">
+
                     </div>
                 </div>
             </div>
@@ -128,7 +128,7 @@
                         <div class="vrachi_card">
                         <img src="img/vrach_card/d5.jpg">
                         <div class="social">
-                            <img src="img/vrach_card/ok.png">
+                           <img src="img/vrach_card/ok.png">
                             <img src="img/vrach_card/fb.png">
                             <img src="img/vrach_card/vk.png">
                         </div>
@@ -151,7 +151,7 @@
                         <div class="vrach_text">
                                 <h6>Нороха </h6>
                                 <h5>Игорь Иванович</h5>
-                                <p>Врач дермато&shy-венеролог, выс&shyшей кате&shyго&shyрии, имеет много&shyлет&shyний опыт веде&shyния па&shyци&shyентов с дер&shyма&shyто&shyло&shyги&shyчес&shyки&shyми, кож&shyны&shyми, ве&shyни&shyро&shyло&shyгичес&shyкими проб&shyле&shyма&shyми. Прак&shyти&shyкует лазер&shyные мето&shyдики в лече&shyнии кож&shyной...</p>
+                                <p>Врач дермато-венеролог, выс&shyшей кате&shyго&shyрии, имеет много&shyлет&shyний опыт веде&shyния па&shyци&shyентов с дер&shyма&shyто&shyло&shyги&shyчес&shyки&shyми, кож&shyны&shyми, ве&shyни&shyро&shyло&shyгичес&shyкими проб&shyле&shyма&shyми. Прак&shyти&shyкует лазер&shyные мето&shyдики в лече&shyнии кож&shyной...</p>
                         </div>
 
                     </div></a>
@@ -168,7 +168,7 @@
                         <div class="vrach_text">
                             <h6>Артеменко</h6>
                             <h5>Александр Андреевич</h5>
-                            <p>Врач онкодерматолог, консуль&shyтации , диагностика и лечение  новообразований кожи, дерма&shyтоскопия эксперт класса, малоинвазивная хирургия кожи, гистологическое исследование кожи в онкологии...</p>
+                            <p>Врач онко-дерматолог, консуль&shyтации , диагностика и лечение  новообразований кожи, дерма&shyтоскопия эксперт класса, малоинвазивная хирургия кожи, гистологическое исследование кожи в онкологии...</p>
                         </div>
                     </div></a>
                 </div>
@@ -217,7 +217,7 @@
         <div class="container">
             <h3 style="text-align: center"> <span class="mark1h3"> последние </span>  <b><span class="mark2h3"> статьи </span></b></h3>
             <hr width="150px" align="center">
-            <p>На страницах болга вы можите ознакомится с последмими достижениями в медицинине, а так же узнать новости и акционные предложения нашей клиники</p>
+            <p>На страницах блога вы можете ознакомиться с последними новостями и достижениями медицины, а так же узнать новости и предложения нашей клиники</p>
             <div class="row">
                 <div class="col-md-4" >
                     <a href="blog.php#b1"><div class="article">
@@ -265,24 +265,24 @@
             <a><img src="img/14.png" id="show_map" onclick="bshow();" ></a>
             <a><img src="img/15.png" id="hiden_map" onclick="bhiden();" ></a>
             <h3>часы работы</h3>
-            <p>пн-пт    10:00 - 19:00</p>
+            <p><span style="margin-right: 15px;">пн-пт</span>    9:00 - 19:00</p>
             <hr>
-            <p><span>сб</span>       11:00 - 15:00</p>
+            <p><span style="margin-right: 40px;">сб</span>9:00 - 15:00</p>
             <hr>
-            <p><span>вс</span>       11:00 - 15:00</p>
+            <p><span style="margin-right: 40px;">вс</span><span style="letter-spacing: 0.1em;">выходной</span></p>
             <hr>
 
             <h3>контакты</h3>
-            <p>+38  050-156-35-48</p>
+            <p style="letter-spacing: 0.04em;">+38  066-267-32-72</p>
             <hr>
             <p>ул. Херсонская, 10а</p>
             <hr>
-            <p>г. Днепр, Украина</p>
+            <p class="spaising07">г. Днепр, Украина</p>
             <hr>
             <div class="social">
-                <img src="img/ok_f.png">
-                <img src="img/vk_f.png">
-                <img src="img/fb_f.png">
+                <a href="https://ok.ru/profile/571221007200" target="_blank"><img src="img/ok_f.png" style="width: auto;"></a>
+                <a href="https://vk.com/public136244461" target="_blank"><img src="img/vk_f.png" style="width: auto;"></a>
+                <a href="https://www.facebook.com/dnipromedical/" target="_blank"><img src="img/fb_f.png" style="width: auto;"></a>
             </div>
 
         </div>
