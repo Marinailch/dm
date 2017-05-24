@@ -1274,7 +1274,7 @@ h3 {
   text-align: left;
 }
 
-/*блог*/
+/*блог главная*/
 h5 {
   font-size: 21px !important;
   font-family: "Myriad Pro", "Trebuchet MS", sans-serif;
@@ -1336,6 +1336,23 @@ h3 {
   font-size: 12px;
   margin-bottom: 15px;
 }
+
+/*блог страница*/
+#b4 img{
+  width: 100%; 
+  margin: 10px 20px 25px 0px;
+
+}
+#b4 strong:nth-child(2) {
+margin-top: 20px;
+}
+#b4 .col-sm-6 strong {
+margin-left: 20px!important;}
+
+/*#b4 .col-sm-6:nth-child(2) {
+max-width: 100%; 
+margin: 10px 20px 25px 0px;
+}*/
 
 /*карта*/
 #map{
@@ -1422,7 +1439,7 @@ h3 {
   overflow: hidden;
 }
 .doctor_card img:only-of-type {
-  /*width: 100%;*/
+  width: 100%;
 }
 .spaising07{
   letter-spacing: 0.06em;
@@ -1476,6 +1493,17 @@ h3 {
   background-color: #1d1f27;
   padding: 70px 0px;
 }
+
+.parters{
+  float: left;
+  width: 176px;
+  opacity: 0.2;
+  margin-bottom: 10px;
+}
+.parters:hover{
+  opacity: 1;
+}
+
 .logo_footer {
   width: 66%;
   margin: auto;
@@ -1666,6 +1694,11 @@ h3 {
     margin-right: 41px;
   }
 
+  #b4 img{
+  width: 130%;
+  margin: 10px 20px 25px -53px;
+}
+
 }
 @media (min-width: 1024px) and (max-width: 1200px){
   .blog_content {
@@ -1677,6 +1710,15 @@ h3 {
    margin: 10px auto;
     height: 700px;
   }
+
+/*  #b4 img{
+        width: 266%;
+    margin: 26px 59px 22px -180px;
+}*/
+.text {
+ padding: 2% 5% 0% 5%; 
+}
+
 }
 
 @media (min-width: 767px) and (max-width: 1200px){
@@ -1698,6 +1740,7 @@ h3 {
   #vrachi .col-md-3 {
     padding-left: 5px;
     padding-right: 5px;
+    background-color: #e8e8e8;
   }
   #vrachi {
     /*background: #d7d7d8;*/
@@ -1708,7 +1751,13 @@ h3 {
   #blog .container {
     width: 100%;
   }
+
+#b4 .text {
+  overflow: hidden!important;
 }
+
+}
+
 @media (max-width: 1023px) {
   #menu_mob {
     display: block;
@@ -1965,6 +2014,14 @@ h3 {
     font-weight: bold;
     margin-right: 4px;
   }
+
+}
+
+@media (max-width: 600px){
+ #b5 img{
+   width: 100%;
+   margin-bottom: 30px;
+ }
 
 }
 

@@ -74,7 +74,7 @@
                <hr  width="50px" align="left">
                <p>Клиника "Днипро-медикал" на Херсонской 10-а специализируется на оказании дерматологической, онко-дерматологической и онкологической помощи жителям Днепра и области.</p>
 
-               <p>К вашим услугам высококлассные специалисты  с многолетним опытом в дерматологии, онкодерматологии, онкологии, маммологии, онкогинекологии, онкоурологии и косметологии.</p>
+               <p>К вашим услугам высококлассные специалисты  с многолетним опытом в дерматологии, онкодерматологии, онкологии, маммологии, гинекологии, онкоурологии и косметологии.</p>
 
               <p> Мы готовы прийти к Вам на помощь, наши сотрудники предоставят весь спектр услуг для вашего скорейшего выздоровления. В клинике проводится <strong><a href="servise.php#ud1">малоинвазивная радиоволновая хирургия кожи</a></strong> ,  <strong><a href="servise.php#ud2">гистологическое исследование кожи в дерматологии</a></strong>, <strong><a href="servise.php#ud3">дерматоскопия эксперт уровня</a></strong>, <strong><a href="servise.php#ud4">диспансерная дерматоскопия</a></strong>, <strong><a href="servise.php#ud6">составление карты "родинок"</a></strong>,  <strong><a href="servise.php#um1">УЗД молочной железы</a></strong>,  <strong><a href="servise.php#um2">биопсия молочной железы</a></strong>, <strong><a href="servise.php#uv1">обследование и лечение ЗППП</a></strong>, <strong><a href="servise.php#uk1">лазерная и радиоволновая косметология</a></strong>, <strong><a href="servise.php#ug1">гинекологический осмотр</a></strong>, <strong><a href="servise.php#uu1">урологический осмотр</a></strong>. Так же в клиника специализируется в проведении эстетических процедур таких как <strong><a href="servise.php#ue1">плазмолифтинг</a></strong>, <strong><a href="servise.php#ue2">контурная пластика</a></strong>, <strong><a href="servise.php#ue3">ботулотоксины</a></strong>, <strong><a href="servise.php#ue4">биоревитализация</a></strong>, <strong><a href="servise.php#ue5">пилинги</a></strong>, <strong><a href="servise.php#ue6">уходы</a></strong>.</p>
            <p>Успешно сотрудничаем с более двадцати страховыми компаниями Украины. <br>Лицензия МОЗУ №870 от 18.08.2016г</p>
@@ -88,7 +88,7 @@
             <div class="row">
                 <div class="col-sm-6">
                     <div class="oreder_text">
-                        <p>Вы можите записаться<br> на прием к специалистам <br> нашей клиники приямо сейчас</p>
+                        <p>Вы можите записаться<br> на прием к специалистам <br> нашей клиники приямо сейчас</p>
                     </div>
                 </div>
                 <div class="col-sm-6">
@@ -127,11 +127,11 @@
                     <a href="doctors.php?id=d5">
                         <div class="vrachi_card">
                         <img src="img/vrach_card/d5.jpg">
-                        <div class="social">
-                           <img src="img/vrach_card/ok.png">
-                            <img src="img/vrach_card/fb.png">
-                            <img src="img/vrach_card/vk.png">
-                        </div>
+<!--                        <div class="social">-->
+<!--                           <img src="img/vrach_card/ok.png">-->
+<!--                            <img src="img/vrach_card/fb.png">-->
+<!--                            <img src="img/vrach_card/vk.png">-->
+<!--                        </div>-->
                         <div class="vrach_text">
                             <h6>Сергеев</h6>
                             <h5> <strong>Станислав Николаевич</strong></h5>
@@ -143,11 +143,11 @@
                     <a href="doctors.php?id=d3">
                     <div class="vrachi_card">
                         <img src="img/vrach_card/d3.jpg">
-                        <div class="social">
-                            <img src="img/vrach_card/ok.png">
-                            <img src="img/vrach_card/fb.png">
-                            <img src="img/vrach_card/vk.png">
-                        </div>
+<!--                        <div class="social">-->
+<!--                            <img src="img/vrach_card/ok.png">-->
+<!--                            <img src="img/vrach_card/fb.png">-->
+<!--                            <img src="img/vrach_card/vk.png">-->
+<!--                        </div>-->
                         <div class="vrach_text">
                                 <h6>Нороха </h6>
                                 <h5>Игорь Иванович</h5>
@@ -160,11 +160,11 @@
                     <a href="doctors.php?id=d2">
                     <div class="vrachi_card">
                         <img src="img/vrach_card/d2.jpg">
-                        <div class="social">
-                            <img src="img/vrach_card/ok.png">
-                            <img src="img/vrach_card/fb.png">
-                            <img src="img/vrach_card/vk.png">
-                        </div>
+<!--                        <div class="social">-->
+<!--                            <img src="img/vrach_card/ok.png">-->
+<!--                            <img src="img/vrach_card/fb.png">-->
+<!--                            <img src="img/vrach_card/vk.png">-->
+<!--                        </div>-->
                         <div class="vrach_text">
                             <h6>Артеменко</h6>
                             <h5>Александр Андреевич</h5>
@@ -176,11 +176,11 @@
                     <a href="doctors.php?id=d4">
                     <div class="vrachi_card">
                         <img src="img/vrach_card/d4.jpg">
-                        <div class="social">
-                            <img src="img/vrach_card/ok.png">
-                            <img src="img/vrach_card/fb.png">
-                            <img src="img/vrach_card/vk.png">
-                        </div>
+<!--                        <div class="social">-->
+<!--                            <img src="img/vrach_card/ok.png">-->
+<!--                            <img src="img/vrach_card/fb.png">-->
+<!--                            <img src="img/vrach_card/vk.png">-->
+<!--                        </div>-->
                         <div class="vrach_text">
                             <h6>Балашов</h6>
                             <h5>Игорь Васильевич</h5>
@@ -220,23 +220,23 @@
             <p>На страницах блога вы можете ознакомиться с последними новостями и достижениями медицины, а так же узнать новости и предложения нашей клиники</p>
             <div class="row">
                 <div class="col-md-4" >
-                    <a href="blog.php#b1"><div class="article">
-                        <img src="img/blog/b_2.jpg">
+                    <a href="blog.php#b4"><div class="article">
+                        <img src="img/blog/b_4i.jpg" >
                         <div class="blog_content">
-                            <p class="blog_data"> 5 сентября 2016г </p>
-                            <h5>«Золотой век» аппаратов лазерной эпиляции</h5>
-                            <p class="blog_text">Если ранее методы удаления волос были, большей частью, довольно травматичными для кожи, то сейчас, когда современная косметология переживает свой «золотой век», эта процедура уже может превратиться не в средневековую экзекуцию, а в более безболезненную и приятную процедуру. Так что бритва или депилятор – это уже «прошлый век»...
+                            <p class="blog_data"> 15 февраля 2017г </p>
+                            <h5>Прессотерапия на аппарате Limpho-drain</h5>
+                            <p class="blog_text">Прессотерапия на аппарате Limpho-drain – это комфортная терапевтическая методика, которая заключается в применении контролируемых компрессий, оказывающих дренирующий эффект, и выведении избытка интерстициальной жидкости и продуктов обмена. Воздействие прессотерапии происходит сжатым воздухом, подаваемым через...
     </p>
                         </div>
                     </div></a>
                 </div>
                 <div class="col-md-4" >
-                    <a href="blog.php#b2"><div class="article">
-                        <img src="img/blog/b_1.jpg">
+                    <a href="blog.php#b5"><div class="article">
+                        <img src="img/blog/blog_img1.jpg"  >
                         <div class="blog_content">
-                            <p class="blog_data"> 7 ноября 2016г </p>
-                            <h5>Американские технологии теперь в Украине</h5>
-                            <p class="blog_text">Несмотря на достигнутые успехи, сегодняшняя медицина продолжает свое развитие, благодаря чему почти каждый год появляется всё более совершенное медицинское оборудование. Естественно, и хирургия не остается в стороне от этого процесса. Можно привести большое количество примеров, которые свидетельствуют о достижениях хирургии...
+                            <p class="blog_data"> 10 апреля 2017г </p>
+                            <h5>День меланомы 2017 пройдет 13 апреля</h5>
+                            <p class="blog_text">13 апреля 2017 года в Украине состоится девятый Всеукраинский День диагностики меланомы в рамках панъевропейской программы «Евромеланома». В этот день, по традиции, все желающие смогут пройти бесплатное обследование на предмет выявления злокачественных новообразований кожи на ранней стадии....
     </p>
                         </div>
                     </div></a>
@@ -274,16 +274,18 @@
 
             <h3>контакты</h3>
             <p style="letter-spacing: 0.04em;">+38  066-267-32-72</p>
+            <hr>‎
+            <p style="letter-spacing: 0.04em;">+38  097-928-95-91</p>
             <hr>
             <p>ул. Херсонская, 10а</p>
             <hr>
             <p class="spaising07">г. Днепр, Украина</p>
             <hr>
-            <div class="social">
-                <a href="https://ok.ru/profile/571221007200" target="_blank"><img src="img/ok_f.png" style="width: auto;"></a>
-                <a href="https://vk.com/public136244461" target="_blank"><img src="img/vk_f.png" style="width: auto;"></a>
-                <a href="https://www.facebook.com/dnipromedical/" target="_blank"><img src="img/fb_f.png" style="width: auto;"></a>
-            </div>
+<!--            <div class="social">-->
+<!--                <a href="https://ok.ru/profile/571221007200" target="_blank"><img src="img/ok_f.png" style="width: auto;"></a>-->
+<!--                <a href="https://vk.com/public136244461" target="_blank"><img src="img/vk_f.png" style="width: auto;"></a>-->
+<!--                <a href="https://www.facebook.com/dnipromedical/" target="_blank"><img src="img/fb_f.png" style="width: auto;"></a>-->
+<!--            </div>-->
 
         </div>
     </div>

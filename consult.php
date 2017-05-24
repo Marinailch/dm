@@ -42,11 +42,11 @@
 ?>
 
                         <img src="img/vrach_card/<?php echo"$img";?>.jpg">
-                        <div class="social">
-                            <img src="img/vrach_card/ok.png">
-                            <img src="img/vrach_card/fb.png">
-                            <img src="img/vrach_card/vk.png">
-                        </div>
+<!--                        <div class="social">-->
+<!--                            <img src="img/vrach_card/ok.png">-->
+<!--                            <img src="img/vrach_card/fb.png">-->
+<!--                            <img src="img/vrach_card/vk.png">-->
+<!--                        </div>-->
                         <div class="doctor_info">
 
                             <h3>часы работы</h3>

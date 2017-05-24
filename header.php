@@ -25,13 +25,7 @@
 
     </script>
 
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-K5LKVC4');</script>
-    <!-- End Google Tag Manager -->
+
     <!-- Yandex.Metrika counter -->
     <script type="text/javascript">
         (function (d, w, c) {
@@ -99,8 +93,8 @@
                             <span class="head_phone_one">+38 (066) 267-32-72</span>
                         </div>
 
-                        <div class="col-sm-3 col-lg-2  head_time">
-                            <span>с 9-00 до 19-00</span>
+                        <div class="col-sm-3 col-lg-2 head_phone">
+                            <span>‎+38 (097) 928-95-91</span>
                         </div>
                         <div class="col-sm-3 head_adress">
                             <span class="geo">ул. Херсонская 10-а</span><br>

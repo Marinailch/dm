@@ -11,7 +11,7 @@
                 <div class="col-sm-4">
                     <div class="doctor_card">
                     
-                        <img src="img/vrach_card/<?php echo "$id";?>.jpg">
+<!--                         <img src="img/vrach_card/<?php echo "$id";?>.jpg">
                         <div class="social">
                             <a href="https://ok.ru/profile/571221007200" target="_blank"><img src="img/vrach_card/ok.png" width="auto"></a>
                             <a href="https://www.facebook.com/dnipromedical/" target="_blank"><img src="img/vrach_card/fb.png" style="width:auto;"></a>
@@ -36,7 +36,33 @@
                     </div>
                 </div>
                 <div class="col-sm-8 text-doc">
+ -->
 
+                         <img src="img/vrach_card/<?php echo"$id";?>.jpg">
+<!--                        <div class="social">-->
+<!--                            <img src="img/vrach_card/ok.png">-->
+<!--                            <img src="img/vrach_card/fb.png">-->
+<!--                            <img src="img/vrach_card/vk.png">-->
+<!--                        </div>-->
+                        <div class="doctor_info">
+
+                            <h3>часы работы</h3>
+                            <p><span style="margin-right: 15px;">пн-пт</span>    9:00 - 19:00</p>
+
+                            <p><span style="margin-right: 40px;">сб</span>9:00 - 15:00</p>
+
+                            <p><span style="margin-right: 40px;">вс</span><span style="letter-spacing: 0.05em;">выходной</span></p>
+
+
+                            <h3>контакты</h3>
+                            <p class="spaising07">+38  066-267-32-72</p>
+                            <p>ул. Херсонская, 10а</p>
+                            <p class="spaising07">г. Днепр, Украина</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-8 text-doc">
                 <nav>
 
 <?php  switch($id){

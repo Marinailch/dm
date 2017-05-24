@@ -6,7 +6,7 @@
                 <div class="col-sm-3">
                     <a href="index.php"><img class="logo_footer" src="img/logo_footer.png"></a>
                 </div>
-                <div class="col-sm-3 service" style="line-height: 1.72em;">
+                <div class="col-sm-3 service" style="line-height: 1.9em;">
                     <span class="consultation">консультации <br> услуги</span>
                     <div class="line_foot"></div>
                     <a href="consult.php?id=c1">Консультация онколога</a>
@@ -18,7 +18,7 @@
                     <a href="consult.php?id=c7">Консультация венеролога</a>
                     <a href="consult.php?id=c8">Консультация косметолога</a>
                 </div>
-                <div class="col-sm-3 service">
+                <div class="col-sm-3 service"  style="line-height: 1.6em; text-align: left !important;">
                     <a href="servise.php#ud1">Малоинвазивная радиоволновая  хирургия кожи</a>
                     <a href="servise.php#ud2">Гистологическое исследование кожи в дерматологии</a>
                     <a href="servise.php#ud3">Диспансерная дерматоскопия, составление "карты родинок"</a>
@@ -37,13 +37,15 @@
                     <a href="servise.php#ue5">Пилинги</a>
                     <a href="servise.php#ue6">Уходы</a>
 <!--                    <p class="footer_inf">Лицензия МЗО от 01.02.2015г серия ЛД-1 номер 2484555</p>-->
-                    <div style="width: 50px; margin-top: 125px;">
-                        <a href="https://www.instagram.com/dnipromedical/" target="_blank" style=";"><img src="img/in.png" style="float: left; width: 20px;"></a>
-                        <a href="https://plus.google.com/u/3/" target="_blank"><img src="img/g.png" style="float: right; width: 20px;"></a>
+                    <div style="width: 180px; margin-top: 45px; margin-left: 10px; display: block; overflow: hidden">
+                                            <p><b>Партнёры</b></p>
+                        <a href="https://www.salonspa.dp.ua/" target="_blank" style=";">            <img class="parters" src="img/part2.png" style="width: 60px; "></a>
+                        <a href="http://www.gmc-med.com.ua/index-4.html" target="_blank" style=";"> <img class="parters" src="img/part1.png" "></a>
+                        <a href="" target="_blank" style=";">                                       <img class="parters" src="img/vl.png"   ></a>
                     </div>
-                    <p class="footer_inf">dnipromedical@gmail.com</p>
                 </div>
-            </div>
+               </div>
+
         </div>
     </div>
 
