@@ -1,4 +1,3 @@
-
     <!-- footer -->
     <div class="footer">
         <div class="container">
@@ -41,7 +40,7 @@
                                             <p><b>Партнёры</b></p>
                         <a href="https://www.salonspa.dp.ua/" target="_blank" style=";">            <img class="parters" src="img/part2.png" style="width: 60px; "></a>
                         <a href="http://www.gmc-med.com.ua/index-4.html" target="_blank" style=";"> <img class="parters" src="img/part1.png" "></a>
-                        <a href="" target="_blank" style=";">                                       <img class="parters" src="img/vl.png"   ></a>
+                        <a href="https://vitalab.dp.ua/index.php?route=common/home" target="_blank" style=";">                                       <img class="parters" src="img/vl.png"   ></a>
                     </div>
                 </div>
                </div>

@@ -259,7 +259,7 @@
 
     <!-- карта -->
     <div id="map">
-        <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d393.28072723472116!2d35.03177514623215!3d48.46292172991606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dbe2e2474bd75f%3A0x26d8285bb658c8c!2zMTBBLCDQstGD0LvQuNGG0Y8g0JLQvtC70L7QtNC40LzQuNGA0LAg0JDQvdGC0L7QvdC-0LLQuNGH0LAsIDEw0JAsINCU0L3RltC_0YDQvsyBLCDQlNC90ZbQv9GA0L7Qv9C10YLRgNC-0LLRgdGM0LrQsCDQvtCx0LvQsNGB0YLRjA!5e0!3m2!1sru!2sua!4v1477326625329" width="100%" height="500" frameborder="0"   allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2645.6660459338036!2d35.024687577733545!3d48.46293676764097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dbe2e2476c6299%3A0x589a1edf3431caea!2z0JTQvdC10L_RgNC-LdCc0LXQtNC40LrQsNC7!5e0!3m2!1sru!2sru!4v1507291392315" width="100%" height="500" frameborder="0"   allowfullscreen></iframe>
 
         <div class="map_info">
             <a><img src="img/14.png" id="show_map" onclick="bshow();" ></a>
