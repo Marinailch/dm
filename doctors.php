@@ -85,6 +85,9 @@
         case 'd5':
           include 'pages/doctors/d5.php';
         break;
+        case 'd6':
+        include 'pages/doctors/d6.php';
+        break;
         
                // case 'shop':
         //   include 'shop/admin/add2cat.php';

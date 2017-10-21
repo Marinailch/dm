@@ -1358,6 +1358,7 @@ margin: 10px 20px 25px 0px;
 #map{
   background-color: #00afae;
   height: 500px;
+  position: relative;
 }
 #map iframe{
   opacity: 0.8;
@@ -1365,18 +1366,21 @@ margin: 10px 20px 25px 0px;
 }
 .map_info {
   display: block;
-  overflow: hidden;
-  background-color: #f36438;
-  width: 250px;
-  height: 500px;
-  opacity: 1;
-  position: absolute;
-  margin-top: -505px;
-  margin-left: 20%;
-  color: #fff;
-  padding: 33px;
-  font-family: "Open Sans", sans-serif;
-  line-height: 0.5em;
+    overflow: hidden;
+    background-color: #f36438;
+    width: 250px;
+    height: 500px;
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    right: 20%;
+    /* margin-top: -505px; */
+    /* margin-left: 20%; */
+    /* margin-right: 20%; */
+    color: #fff;
+    padding: 33px;
+    font-family: "Open Sans", sans-serif;
+    line-height: 0.5em;
 }
 
 .map_info span {

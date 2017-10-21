@@ -38,7 +38,11 @@
         break;
     case 'c8':
         $img="d6";
-        break;}
+        break;
+    case 'c9':
+        $img="d7";
+        break;
+}
 ?>
 
                         <img src="img/vrach_card/<?php echo"$img";?>.jpg">
@@ -98,6 +102,9 @@
         break;
         case 'c8':
           include 'pages/consult/c8.php';
+        break;
+        case 'c9':
+        include 'pages/consult/c9.php';
         break;
         
                // case 'shop':

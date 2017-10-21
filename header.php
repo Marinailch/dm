@@ -123,6 +123,7 @@
                                             <li><a href="consult.php?id=c6"><i class="ti-angle-right"></i>Мамолог</a></li>
                                             <li><a href="consult.php?id=c7"><i class="ti-angle-right"></i>Венеролог</a></li>
                                             <li><a href="consult.php?id=c8"><i class="ti-angle-right"></i>Косметолог</a></li>
+                                            <li><a href="consult.php?id=c9"><i class="ti-angle-right"></i>Массажист</a></li>
                                         </ul>
                                     </li>
 
@@ -174,6 +175,7 @@
                                                     <li><a href="servise.php#uk2"><i class="ti-angle-right"></i>Радиоволновая косметология</a></li>
                                                 </ul>
                                             </li>
+                                             <li><a href="consult.php?id=c9"><i class="ti-angle-right"></i>Массаж</a></li>
 
 
                                         </ul>

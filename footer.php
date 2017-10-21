@@ -28,13 +28,14 @@
                     <a href="servise.php#uu2">Урологический осмотр</a>
                     <a href="servise.php#uk1">Лазерная и радиоволновая косметология</a>
                 </div>
-                <div class="col-sm-3 service">
+                <div class="col-sm-3 service" style="line-height: 1.0em;">
                     <a href="servise.php#ue1">Плазмолифтинг</a>
                     <a href="servise.php#ue2">Контурная пластика</a>
                     <a href="servise.php#ue3">Ботулотоксины</a>
                     <a href="servise.php#ue4">Биоревитализация</a>
                     <a href="servise.php#ue5">Пилинги</a>
                     <a href="servise.php#ue6">Уходы</a>
+                    <a href="consult.php?id=c9">Массаж</a>
 <!--                    <p class="footer_inf">Лицензия МЗО от 01.02.2015г серия ЛД-1 номер 2484555</p>-->
                     <div style="width: 180px; margin-top: 45px; margin-left: 10px; display: block; overflow: hidden">
                                             <p><b>Партнёры</b></p>
