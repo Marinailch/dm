@@ -199,14 +199,12 @@
             <div class="row">
                 <div class="col-sm-6">
                     <div class="Surgitron_text">
-                        <p>Хирурги нашей клиники проводят
-                            операции американским аппаратом
-                            «Surgitron ЕМС» Ellman International</p>
+                        <p>Удаление "родинок" современным американским аппаратом<br>«Surgitron ЕМС» Ellman International</p>
                     </div>
                 </div>
                 <div class="col-sm-6">
                     <div class="Surgitron_button">
-                        <a href="blog.php"><button><b>Побробнее</b></button></a>
+                        <a href="http://dnipromedical.com/articles.php?id=b2"><button><b>Побробнее</b></button></a>
                     </div>
                 </div>
             </div>
@@ -220,20 +218,20 @@
             <hr width="150px" align="center">
             <p>На страницах блога вы можете ознакомиться с последними новостями и достижениями медицины, а так же узнать новости и предложения нашей клиники</p>
             <div class="row">
-                <div class="col-md-4" >
-                    <a href="blog.php#b4"><div class="article">
-                        <img src="img/blog/b_4i.jpg" >
+<div class="col-md-4" >
+                    <a href="articles.php?id=b6"><div class="article">
+                        <img src="img/blog/b6_1.jpg">
                         <div class="blog_content">
-                            <p class="blog_data"> 15 февраля 2017г </p>
-                            <h5>Прессотерапия на аппарате Limpho-drain</h5>
-                            <p class="blog_text">Прессотерапия на аппарате Limpho-drain – это комфортная терапевтическая методика, которая заключается в применении контролируемых компрессий, оказывающих дренирующий эффект, и выведении избытка интерстициальной жидкости и продуктов обмена. Воздействие прессотерапии происходит сжатым воздухом, подаваемым через...
-    </p>
+                            <p class="blog_data"> 22 декабря  2017г </p>
+                            <h5>Ведущие специалисте Клиники Евродерм в Днепре</h5>
+                            <p class="blog_text"> На базе Клиники Днипро-медикал, при участии ведущих специалистов Клиники Евродерм г. Киев Богдана Литвитненко, Кузьмы Хобзей и Виктора Завизиона - ведущего специалиста Клиники Днипро-медикал, прошел первый Тренинг-семинар для дерматологов и дерматоонкологов Днепропетровской области.  .....</p>
+    
                         </div>
                     </div></a>
                 </div>
                 <div class="col-md-4" >
-                    <a href="blog.php#b5"><div class="article">
-                        <img src="img/blog/blog_img1.jpg"  >
+                    <a href="articles.php?id=b1"><div class="article">
+                        <img src="img/blog/b1.jpg"  >
                         <div class="blog_content">
                             <p class="blog_data"> 10 апреля 2017г </p>
                             <h5>День меланомы 2017 пройдет 13 апреля</h5>
@@ -243,8 +241,8 @@
                     </div></a>
                 </div>
                 <div class="col-md-4" >
-                    <a href="blog.php#b3"><div class="article">
-                        <img src="img/blog/b_3.jpg">
+                    <a href="articles.php?id=b3"><div class="article">
+                        <img src="img/blog/b3.jpg">
                         <div class="blog_content">
                             <p class="blog_data"> 29 ноября 2016г </p>
                             <h5>Фракционный фототермолиз - новое слово в омоложении</h5>
@@ -258,36 +256,7 @@
         </div>
     </div>
 
-    <!-- карта -->
-    <div id="map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2645.6660459338036!2d35.024687577733545!3d48.46293676764097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dbe2e2476c6299%3A0x589a1edf3431caea!2z0JTQvdC10L_RgNC-LdCc0LXQtNC40LrQsNC7!5e0!3m2!1sru!2sru!4v1507291392315" width="100%" height="500" frameborder="0"   allowfullscreen></iframe>
 
-        <div class="map_info">
-            <a><img src="img/14.png" id="show_map" onclick="bshow();" ></a>
-            <a><img src="img/15.png" id="hiden_map" onclick="bhiden();" ></a>
-            <h3>часы работы</h3>
-            <p><span style="margin-right: 15px;">пн-пт</span>    9:00 - 19:00</p>
-            <hr>
-            <p><span style="margin-right: 40px;">сб</span>9:00 - 15:00</p>
-            <hr>
-            <p><span style="margin-right: 40px;">вс</span><span style="letter-spacing: 0.1em;">выходной</span></p>
-            <hr>
 
-            <h3>контакты</h3>
-            <p style="letter-spacing: 0.04em;">+38  066-267-32-72</p>
-            <hr>‎
-            <p style="letter-spacing: 0.04em;">+38  097-928-95-91</p>
-            <hr>
-            <p>ул. Херсонская, 10а</p>
-            <hr>
-            <p class="spaising07">г. Днепр, Украина</p>
-            <hr>
-<!--            <div class="social">-->
-<!--                <a href="https://ok.ru/profile/571221007200" target="_blank"><img src="img/ok_f.png" style="width: auto;"></a>-->
-<!--                <a href="https://vk.com/public136244461" target="_blank"><img src="img/vk_f.png" style="width: auto;"></a>-->
-<!--                <a href="https://www.facebook.com/dnipromedical/" target="_blank"><img src="img/fb_f.png" style="width: auto;"></a>-->
-<!--            </div>-->
-
-        </div>
-    </div>
+<?php include "map.php" ?>    
 <?php include "footer.php" ?>

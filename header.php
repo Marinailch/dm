@@ -6,10 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Онко-дерматологическая клиника в Днепре. Консультация врача онколога, дерматолога, уролога, венеролога, гинеколога, косметолога">
     <meta name="author" content="">
-    <meta name=”keywords” content=”дерматолог">
-    <meta name=”keywords” content=”онколог">
-    <meta name=”keywords” content=”клиника">
-    <meta name=”keywords” content=”Завизион">
+    <meta name=keywords content=дерматолог>
+    <meta name=keywords content=онколог>
+    <meta name=keywords content=клиника>
+    <meta name=keywords content=Завизион>
+ <meta name=keywords content=удалениеродинок>
+ <meta name=keywords content=онкологияднепр>
     <link rel="stylesheet" href="css/bootstrap.min.css" media="all" />
 	<link rel="stylesheet" href="css/slider-pro.min.css">
     <link rel="stylesheet" href="style.css">
@@ -81,7 +83,7 @@
                                     <li onclick="none();"><a href="index.php#map">Контакты</a></li>
                                     <li onclick="none();"><a href="index.php">Главная</a></li>
                                     <li onclick="none();"><a href="consult.php?id=с1">Консультации</a></li>
-                                    <li onclick="none();"><a href="servise.php">Услуги</a></li>
+                                    <li onclick="none();"><a href="servise_old.php">Услуги</a></li>
                                     <li onclick="none();"><a href="index.php#about">О Нас</a></li>
                                     <li onclick="none();"><a href="blog.php">Блог</a></li>
                                     <li onclick="none();"><a href="">Магазин</a></li></li>
@@ -94,7 +96,7 @@
                         </div>
 
                         <div class="col-sm-3 col-lg-2 head_phone">
-                            <span>‎+38 (097) 928-95-91</span>
+                            <span>+38 (097) 928-95-91</span>
                         </div>
                         <div class="col-sm-3 head_adress">
                             <span class="geo">ул. Херсонская 10-а</span><br>
@@ -131,48 +133,50 @@
                                         <ul style="width: 370px;">
                                             <li><a href="servise.php#ud1"><i class="ti-angle-right"></i>Дерматология</a>
                                                 <ul>
-                                                    <li><a href="servise.php#ud1"><i class="ti-angle-right"></i>Радиоволновая хирургия</a>
-                                                    <li><a href="servise.php#ud2"><i class="ti-angle-right"></i>Гистологическое исследование</a></li>
-                                                    <li><a href="servise.php#ud3"><i class="ti-angle-right"></i>Дерматоскопия эксперт уровня</a></li>
-                                                    <li><a href="servise.php#ud4"><i class="ti-angle-right"></i>Диспансерная дерматоскопия</a></li>
-                                                    <li><a href="servise.php#ud5"><i class="ti-angle-right"></i>Составление карты "родинок"</a></li>
+                                                    <li><a href="servise.php?id=s1"><i class="ti-angle-right"></i>Радиоволновая хирургия</a>
+                                                    <li><a href="servise.php?id=s2"><i class="ti-angle-right"></i>Гистологическое исследование</a></li>
+                                                    <li><a href="servise.php?id=s3"><i class="ti-angle-right"></i>Дерматоскопия эксперт уровня</a></li>
+                                                    <li><a href="servise.php?id=s4"><i class="ti-angle-right"></i>Диспансерная дерматоскопия</a></li>
+                                                    <li><a href="servise.php?id=s5"><i class="ti-angle-right"></i>Составление карты "родинок"</a></li>
                                                </ul>
                                             </li>
 
-                                            <li><a href="servise.php#um1"><i class="ti-angle-right"></i>Маммология</a>
+                                            <li><a href="servise_old.php"><i class="ti-angle-right"></i>Маммология</a>
                                                 <ul>
-                                                    <li><a href="servise.php#um1"><i class="ti-angle-right"></i>УЗД молочной железы</a></li>
-                                                    <li><a href="servise.php#um2"><i class="ti-angle-right"></i> Биопсия молочной железы</a></li>
+                                                    <li><a href="servise.php?id=s7"><i class="ti-angle-right"></i>УЗД молочной железы</a></li>
+                                                    <li><a href="servise.php?id=s8"><i class="ti-angle-right"></i> Биопсия молочной железы</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="servise.php#ug1"><i class="ti-angle-right"></i>Геникология</a>
+                                            <li><a href="servise_old.php"><i class="ti-angle-right"></i>Геникология</a>
                                                 <ul>
-                                                    <li><a href="servise.php#ug1"><i class="ti-angle-right"></i>Гинекологический осмотр</a></li>
-                                                    <li><a href="servise.php#ug1"><i class="ti-angle-right"></i>Обследование ЗППП</a></li>
-                                                    <li><a href="servise.php#uu1"><i class="ti-angle-right"></i>Лечение ЗППП</a></li>
+                                                    <li><a href="servise.php?id=s9"><i class="ti-angle-right"></i>Гинекологический осмотр</a></li>
+                                                    <li><a href="servise.php?id=s10"><i class="ti-angle-right"></i>Обследование ЗППП</a></li>
+                                                    <li><a href="servise.php?id=s11"><i class="ti-angle-right"></i>Лечение ЗППП</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="servise.php#uu1"><i class="ti-angle-right"></i>Урология</a>
+                                            <li><a href="servise_old.php"><i class="ti-angle-right"></i>Урология</a>
                                                 <ul>
-                                                    <li><a href="servise.php#uu2"><i class="ti-angle-right"></i>Урологиический осмотр</a></li>
-                                                    <li><a href="servise.php#uu1"><i class="ti-angle-right"></i>Обследование ЗППП</a></li>
-                                                    <li><a href="servise.php#uu1"><i class="ti-angle-right"></i>Лечение ЗППП</a></li>
+                                                    <li><a href="servise.php?id=s12"><i class="ti-angle-right"></i>Урологиический осмотр</a></li>
+                                                    <li><a href="servise.php?id=s13"><i class="ti-angle-right"></i>Обследование ЗППП</a></li>
+                                                    <li><a href="servise.php?id=s14"><i class="ti-angle-right"></i>Лечение ЗППП</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="servise.php#ue1"><i class="ti-angle-right"></i>Эстетическая медицина</a>
                                                 <ul>
-                                                    <li><a href="servise.php#ue1"><i class="ti-angle-right"></i>Плазмолифтинг</a></li>
-                                                    <li><a href="servise.php#ue2"><i class="ti-angle-right"></i>Контурная пластика</a></li>
-                                                    <li><a href="servise.php#ue3"><i class="ti-angle-right"></i>Ботулотоксины</a></li>
-                                                    <li><a href="servise.php#ue4"><i class="ti-angle-right"></i>Биоревитализация</a></li>
-                                                    <li><a href="servise.php#ue5"><i class="ti-angle-right"></i>Пилинги</a></li>
-                                                    <li><a href="servise.php#ue6"><i class="ti-angle-right"></i>Уходы</a></li>
+                                                    <li><a href="servise.php?id=s15"><i class="ti-angle-right"></i>Плазмолифтинг</a></li>
+                                                    <li><a href="servise.php?id=s16"><i class="ti-angle-right"></i>Контурная пластика</a></li>
+                                                    <li><a href="servise.php?id=s17"><i class="ti-angle-right"></i>Ботулотоксины</a></li>
+                                                    <li><a href="servise.php?id=s18"><i class="ti-angle-right"></i>Биоревитализация</a></li>
+                                                    <li><a href="servise.php?id=s19"><i class="ti-angle-right"></i>Пилинги</a></li>
+                                                    <li><a href="servise.php?id=s20"><i class="ti-angle-right"></i>Уходы</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="servise.php#uk1"><i class="ti-angle-right"></i>Косметология</a>
+                                            <li><a href="servise_old.php"><i class="ti-angle-right"></i>Косметология</a>
                                                 <ul>
-                                                    <li><a href="servise.php#uk1"><i class="ti-angle-right"></i>Лазерная косметология</a></li>
-                                                    <li><a href="servise.php#uk2"><i class="ti-angle-right"></i>Радиоволновая косметология</a></li>
+                                                    <li><a href="servise.php?id=s21"><i class="ti-angle-right"></i>Лазерная косметология</a></li>
+                                                    <li><a href="servise.php?id=s22"><i class="ti-angle-right"></i>Радиоволновая косметология</a></li>
+                                                    <li><a href="servise.php?id=s23"><i class="ti-angle-right"></i>Безинъекционная<br>   <span style="margin-left: 8px;">карбокситерапия</span></a></li>
+                                                    <li><a href="servise.php?id=s24"><i class="ti-angle-right"></i>Восковая депиляция</a></li>
                                                 </ul>
                                             </li>
                                              <li><a href="consult.php?id=c9"><i class="ti-angle-right"></i>Массаж</a></li>
@@ -184,7 +188,7 @@
                                     <li><a href="blog.php">Блог</a>
                                         <ul>
                                             <li><a href="blog.php"><i class="ti-angle-right"></i>Галлерея</a></li>
-                                            <li><a href="blog.php"><i class="ti-angle-right"></i>Видео</a></li>
+                                            <li><a href="video.php"><i class="ti-angle-right"></i>Видео</a></li>
                                             <li><a href="blog.php"><i class="ti-angle-right"></i>Новости</a></li>
                                         </ul>
                                     </li>

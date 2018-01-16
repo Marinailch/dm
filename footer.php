@@ -18,23 +18,23 @@
                     <a href="consult.php?id=c8">Консультация косметолога</a>
                 </div>
                 <div class="col-sm-3 service"  style="line-height: 1.6em; text-align: left !important;">
-                    <a href="servise.php#ud1">Малоинвазивная радиоволновая  хирургия кожи</a>
-                    <a href="servise.php#ud2">Гистологическое исследование кожи в дерматологии</a>
-                    <a href="servise.php#ud3">Диспансерная дерматоскопия, составление "карты родинок"</a>
-                    <a href="servise.php#ud4">УЗД молочной железы</a>
-                    <a href="servise.php#um1">Биопсия молочной железы</a>
-                    <a href="servise.php#uu1">Обследование и лечение ЗППП</a>
-                    <a href="servise.php#ug1">Гинекологический осмотр</a>
-                    <a href="servise.php#uu2">Урологический осмотр</a>
-                    <a href="servise.php#uk1">Лазерная и радиоволновая косметология</a>
+                    <a href="servise.php?id=s1">Малоинвазивная радиоволновая  хирургия кожи</a>
+                    <a href="servise.php?id=s2">Гистологическое исследование кожи в дерматологии</a>
+                    <a href="servise.php?id=s4">Диспансерная дерматоскопия, составление "карты родинок"</a>
+                    <a href="servise.php?id=s7">УЗД молочной железы</a>
+                    <a href="servise.php?id=s8">Биопсия молочной железы</a>
+                    <a href="servise.php?id=s10">Обследование и лечение ЗППП</a>
+                    <a href="servise.php?id=s9">Гинекологический осмотр</a>
+                    <a href="servise.php?id=s12">Урологический осмотр</a>
+                    <a href="servise.php?id=s21">Лазерная и радиоволновая косметология</a>
                 </div>
                 <div class="col-sm-3 service" style="line-height: 1.0em;">
-                    <a href="servise.php#ue1">Плазмолифтинг</a>
-                    <a href="servise.php#ue2">Контурная пластика</a>
-                    <a href="servise.php#ue3">Ботулотоксины</a>
-                    <a href="servise.php#ue4">Биоревитализация</a>
-                    <a href="servise.php#ue5">Пилинги</a>
-                    <a href="servise.php#ue6">Уходы</a>
+                    <a href="servise.php?id=s15">Плазмолифтинг</a>
+                    <a href="servise.php?id=s16">Контурная пластика</a>
+                    <a href="servise.php?id=s17">Ботулотоксины</a>
+                    <a href="servise.php?id=s18">Биоревитализация</a>
+                    <a href="servise.php?id=s19">Пилинги</a>
+                    <a href="servise.php?id=s20">Уходы</a>
                     <a href="consult.php?id=c9">Массаж</a>
 <!--                    <p class="footer_inf">Лицензия МЗО от 01.02.2015г серия ЛД-1 номер 2484555</p>-->
                     <div style="width: 180px; margin-top: 45px; margin-left: 10px; display: block; overflow: hidden">
