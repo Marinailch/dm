@@ -130,7 +130,7 @@ break;
 
 
             <div style="margin-top: 20px;" id="b5">
-                 <img src="img/blog/<?php echo"$img";?>.jpg" style="float:left; margin-right: 20px; margin-bottom: 20px; max-width: 600px; width: 100%; " >
+                 <img src="img/blog/<?php echo"$img";?>.jpg" style="float:left; margin-right: 20px; margin-bottom: 20px; max-width: 400px; width: 100%; " >
 <h1 style="    font-size: 20px;    font-weight: 600; margin-right: 20px;   color: #787878;}"><?php echo"$title_h1"?></h1>
 <p style="width: 100%;">
 
